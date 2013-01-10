@@ -1,0 +1,13 @@
+Program to convert image files into a textual description of the image by
+exporting it as the CSS values for each pixel.  Developed for a graphics
+artist friend of mine.
+
+Requires:
+
+* Python Image Library
+
+Usage:
+
+Takes input file (image) as it first argument and writes to the outfile
+(text file), given as the second argument or to stdout if no outfile is
+given.
